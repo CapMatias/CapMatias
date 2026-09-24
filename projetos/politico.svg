@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="124" viewBox="0 0 400 124" role="img" aria-label="politico · Politico-2 (privado)">
+  <style>
+    .n{font:600 16px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#58A6FF}
+    .d{font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#C9D1D9}
+    .l{font:400 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8B949E}
+    .p{font:500 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8B949E}
+  </style>
+  <rect x="0.5" y="0.5" width="399" height="123" rx="10" fill="#0D1117" stroke="#1F6FEB" stroke-opacity="0.55"/>
+  <rect x="0.5" y="0.5" width="4" height="123" rx="2" fill="#1F6FEB"/>
+  <g transform="translate(22,22)" fill="#8B949E"><path d="M4 4a4 4 0 0 1 8 0v2h.25c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 12.25 15h-8.5A1.75 1.75 0 0 1 2 13.25v-5.5C2 6.784 2.784 6 3.75 6H4Zm8.25 3.5h-8.5a.25.25 0 0 0-.25.25v5.5c0 .138.112.25.25.25h8.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25ZM10.5 6V4a2.5 2.5 0 1 0-5 0v2Z"/></g>
+  <text x="46" y="35" class="n">politico · Politico-2</text>
+  <rect x="322" y="19" width="62" height="20" rx="10" fill="none" stroke="#30363D"/>
+  <text x="353" y="33" class="p" text-anchor="middle">Privado</text>
+  <text x="22" y="64" class="d">Plataforma de inteligência territorial e mobilização,</text>
+  <text x="22" y="83" class="d">com documentação e banco em Spring Boot + PostgreSQL.</text>
+  <circle cx="28" cy="104" r="6" fill="#F1E05A"/>
+  <text x="40" y="108" class="l">JavaScript</text>
+</svg>
