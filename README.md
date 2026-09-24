@@ -81,36 +81,51 @@ const daniel = {
 ## ▸ Projetos
 
 <p align="center">
-  <a href="https://github.com/CapMatias/AtivaMente-MVP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapMatias&repo=AtivaMente-MVP&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=10&description_lines_count=2" alt="AtivaMente-MVP" width="48%" />
-  </a>
-  <!--
-    Para adicionar outro projeto: troque NOME-DO-REPO (nos dois lugares) e remova o comentário.
-    O card puxa a descrição e a linguagem direto do repositório.
-
-  <a href="https://github.com/CapMatias/NOME-DO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CapMatias&repo=NOME-DO-REPO&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=10&description_lines_count=2" alt="NOME-DO-REPO" width="48%" />
-  </a>
-  -->
+  <a href="https://github.com/CapMatias/AtivaMente-MVP"><img src="./projetos/AtivaMente-MVP.svg" alt="AtivaMente-MVP" width="49%" /></a>
+  <a href="https://github.com/CapMatias/DMusic"><img src="./projetos/DMusic.svg" alt="DMusic" width="49%" /></a>
 </p>
+<p align="center">
+  <a href="https://github.com/CapMatias/Fotos.Vinho-Novo"><img src="./projetos/Fotos.Vinho-Novo.svg" alt="Fotos.Vinho-Novo" width="49%" /></a>
+  <a href="https://github.com/CapMatias/ficha_de_novos_membros"><img src="./projetos/ficha_de_novos_membros.svg" alt="ficha_de_novos_membros" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CapMatias/Site-AtivaMente"><img src="./projetos/Site-AtivaMente.svg" alt="Site-AtivaMente" width="49%" /></a>
+  <a href="https://github.com/CapMatias/site-dentista"><img src="./projetos/site-dentista.svg" alt="site-dentista" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CapMatias/lista-de-tarefas"><img src="./projetos/lista-de-tarefas.svg" alt="lista-de-tarefas" width="49%" /></a>
+  <a href="https://github.com/CapMatias/Churrasco-Ohana"><img src="./projetos/Churrasco-Ohana.svg" alt="Churrasco-Ohana" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CapMatias/Arraia-da-rua"><img src="./projetos/Arraia-da-rua.svg" alt="Arraia-da-rua" width="49%" /></a>
+  <a href="https://github.com/CapMatias/Celula"><img src="./projetos/Celula.svg" alt="Celula" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CapMatias/Aleatorio"><img src="./projetos/Aleatorio.svg" alt="Aleatorio" width="49%" /></a>
+  <a href="https://github.com/CapMatias/Faculdade.Diego"><img src="./projetos/Faculdade.Diego.svg" alt="Faculdade.Diego" width="49%" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/CapMatias/Faculdade.Giuliano"><img src="./projetos/Faculdade.Giuliano.svg" alt="Faculdade.Giuliano" width="49%" /></a>
+</p>
+
+<!--
+  Para adicionar um projeto: copie um arquivo de projetos/, troque nome, descrição e linguagem
+  dentro do SVG, e acrescente um <a href=...><img src="./projetos/NOVO.svg" ... /></a> acima.
+-->
 
 ## ▸ No GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CapMatias&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=1F6FEB&border_color=1F6FEB&border_radius=10" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapMatias&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=1F6FEB&border_radius=10" alt="Top Languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CapMatias&theme=github_dark" alt="Contribuições no último ano" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CapMatias&theme=github_dark" alt="GitHub Stats" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CapMatias&theme=github_dark" alt="Linguagens mais usadas" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CapMatias&locale=pt_BR&background=0D1117&border=1F6FEB&ring=58A6FF&fire=58A6FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub Streak" width="85%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CapMatias&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=E6EDF3&area=true&area_color=1F6FEB&title_color=58A6FF&hide_border=true&radius=10&custom_title=Atividade%20dos%20%C3%BAltimos%2031%20dias" alt="Activity Graph" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CapMatias&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
