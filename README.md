@@ -36,9 +36,10 @@ Trabalho com **Next.js**, **Vue** e **TypeScript** no front-end, **PHP** e **Bla
 ```ts
 const daniel = {
   cargo: "Engenheiro de Software",
-  front: ["Next.js", "Vue", "TypeScript"],
-  server: ["PHP", "Blade"],
-  extra: "Interfaces 3D",
+  front: ["Next.js", "React", "Vue", "TypeScript"],
+  mobile: ["React Native", "Expo"],
+  back: ["Node.js", "Express", "PHP", "Spring Boot"],
+  extra: "Interfaces 3D com Spline",
 };
 ```
 
@@ -48,13 +49,33 @@ const daniel = {
 
 ## ▸ Tecnologias
 
+<p align="center"><sub><b>LINGUAGENS</b></sub></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,ts,js,php,css&theme=dark&perline=6" alt="Next.js, Vue, TypeScript, JavaScript, PHP, CSS" />
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,php,java,py,c&theme=dark" alt="TypeScript, JavaScript, HTML, CSS, PHP, Java, Python, C" />
 </p>
 
+<p align="center"><sub><b>FRONT-END · MOBILE · 3D</b></sub></p>
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,styledcomponents,materialui,vite&theme=dark" alt="Next.js, React, Vue, Tailwind CSS, styled-components, Material UI, Vite" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=58A6FF" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-0D1117?style=for-the-badge&logo=expo&logoColor=58A6FF" alt="Expo" />
   <img src="https://img.shields.io/badge/Blade-0D1117?style=for-the-badge&logo=laravel&logoColor=58A6FF" alt="Blade" />
-  <img src="https://img.shields.io/badge/3D-interfaces-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Interfaces 3D" />
+  <img src="https://img.shields.io/badge/Spline-3D-1F6FEB?style=for-the-badge&labelColor=0D1117" alt="Spline 3D" />
+</p>
+
+<p align="center"><sub><b>BACK-END · DADOS</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,prisma,postgres,sqlite,supabase,firebase&theme=dark" alt="Node.js, Express, Spring Boot, Prisma, PostgreSQL, SQLite, Supabase, Firebase" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.io-0D1117?style=for-the-badge&logo=socketdotio&logoColor=58A6FF" alt="Socket.io" />
+</p>
+
+<p align="center"><sub><b>DEPLOY · FERRAMENTAS</b></sub></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,git,github,githubactions&theme=dark" alt="Docker, Vercel, Netlify, Git, GitHub, GitHub Actions" />
 </p>
 
 ## ▸ Projetos
