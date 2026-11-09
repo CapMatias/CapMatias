@@ -116,12 +116,12 @@ const daniel = {
 ## ▸ No GitHub
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CapMatias&theme=github_dark" alt="Contribuições no último ano" width="100%" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Contribuições no último ano" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CapMatias&theme=github_dark" alt="GitHub Stats" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CapMatias&theme=github_dark" alt="Linguagens mais usadas" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" width="49%" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Linguagens mais usadas" width="49%" />
 </p>
 
 <p align="center">
